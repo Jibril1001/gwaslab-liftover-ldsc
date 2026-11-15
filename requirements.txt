@@ -1,0 +1,4 @@
+# Verified with gwaslab 4.2.3 on Python 3.12 (see README for why 3.12).
+gwaslab==4.2.3
+pytest>=7.4
+ruff>=0.6
