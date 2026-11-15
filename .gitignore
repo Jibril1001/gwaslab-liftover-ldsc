@@ -1,0 +1,12 @@
+.venv*/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# generated / downloaded data and outputs
+data/
+results/
+ldsc.delete
+ldsc.part_delete
+*.log
